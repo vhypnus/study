@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+/crms.iml
+.DS_Store
+*.iml
+*/*.iml
+.settings
+.classpath
+.project
+classes
+test-classes
+*.log
+/log
+logs
+target
+~/.m2/*
+*/target/
+/*/*/target/
+*/*/*.iml
+/target
+/*/target/*
+/bin
+/temp/*
+pom.xml.versionsBackup
+/.idea/modules.xml
+.idea/
+.idea
+.idea/*
